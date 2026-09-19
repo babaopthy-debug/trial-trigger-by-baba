@@ -1,0 +1,10 @@
+requests
+aiohttp
+curl_cffi
+tls-client
+pyotp
+colorama
+websockets
+websocket-client
+easygradients
+PySide6>=6.8,<7
